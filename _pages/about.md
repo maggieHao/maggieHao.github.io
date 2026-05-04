@@ -22,5 +22,8 @@ social: true # includes social icons at the bottom of the page
 I am currently a third-year PhD student in the Centre for Doctoral Training in Robotics & Autonomous Systems ([CDT RAS](https://www.edinburgh-robotics.org/)) at the University of Edinburgh. I am supervised by [Laura Sevilla](https://laurasevilla.me/) and [Bob Fisher](https://homepages.inf.ed.ac.uk/rbf/), and I also work closely with [Shreyank N Gowda](https://sites.google.com/view/shreyankngowda/home) and [Anurag Arnab](https://anuragarnab.github.io/). Prior to my PhD, I completed my Master’s degree at the University of Edinburgh and received my Bachelor’s degree from Beijing University of Posts and Telecommunications (BUPT). I also worked as an Algorithm Intern at ByteDance and an Algorithm Engineer at Alibaba before.
 
 My research focuses on improving **efficiency** in visual tasks, especially **video understanding**.
+ - Inference Stage: Token Selection
+ - Training Stage: Data Pruning, Data Influence
+ - Models: VideoLLMs, Vision Transformers
 
 
